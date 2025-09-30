@@ -39,7 +39,10 @@ The figures below summarize **per-class performance across conditions**:
 
 - **Figure 1 (right):** Per-class **AP@[0.5:0.95]** by condition, showing broadly similar performance across classes, with noticeable degradation under adverse conditions.  
 - **Figure 2 (left):** Per-class **AR@100** by condition, highlighting the recall gap between cars (lower) and the larger classes (trucks, vans), which remain easier to detect under all conditions.  
-
+<p align="center">
+  <img src="bar_chart_AP5095.png" alt="Per-class AP@[0.5:0.95]" width="45%"/>
+  <img src="bar_chart_AR100.png" alt="Per-class AR@100" width="45%"/>
+</p>
 ---
 
 ## References  
