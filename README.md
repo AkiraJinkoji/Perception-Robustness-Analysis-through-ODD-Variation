@@ -1,7 +1,7 @@
 # Perception Robustness Analysis through ODD Variation
 
 ## Introduction  
-This repository contains a personal exploration project in computer vision, aimed at evaluating the robustness of YOLO object detection under varying **Operational Design Domain (ODD)** conditions.  
+This repository contains a project in computer vision, aimed at evaluating the robustness of YOLO object detection under varying **Operational Design Domain (ODD)** conditions.  
 The project uses the **VKITTI2** dataset to study how detection performance shifts with environmental changes such as fog, rain, and lighting variations.  
 
 ---
